@@ -4,7 +4,7 @@
 Set up a Microsoft Intune trial tenant and create a global admin account for lab use.
 
 ## Steps Taken
-![Endpoint Manager Dashboard](endpoint-manager-dashboard.png)
+![Endpoint Manager Dashboard](device-enrollment/Screenshot 2025-12-29 184149.png)
 
 - Signed up for Microsoft Intune 30-day trial
 - Created a new work account (CIPRIANOEM@CiprianoTech.onmicrosoft.com)
