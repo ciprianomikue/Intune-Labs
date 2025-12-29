@@ -9,8 +9,8 @@ Set up a Microsoft Intune trial tenant and create a global admin account for lab
 - Created a new work account (CIPRIANOEM@CiprianoTech.onmicrosoft.com)
 - Logged into Microsoft Endpoint Manager admin center
 - Verified access to Intune, Entra ID, and Microsoft 365 Admin Center
-  ![Endpoint Manager Dashboard](device-enrollment/Screenshot 2025-12-29 184149.png)
-
+- ![Endpoint Manager Dashboard](device-enrollment/Screenshot 2025-12-29 184149.png)
+  
 ## What I Learned
 - How to activate a trial tenant
 - How Microsoft Entra ID powers identity across Intune and Microsoft 365
